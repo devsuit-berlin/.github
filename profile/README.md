@@ -52,7 +52,7 @@ Our strength: **clear, transparent architecture decisions** — we explain the t
 |---|---|
 | [**erdify**](https://github.com/devsuit-berlin/erdify) [![PyPI](https://img.shields.io/pypi/v/erdify?label=)](https://pypi.org/project/erdify/) | Zero-dependency ERD generator for your Python models — pure AST, no database required. |
 
-Found a bug or have an idea? Issues and PRs are welcome — see our [contributing guidelines](https://github.com/devsuit-berlin/.github/blob/main/CONTRIBUTING.md).
+Found a bug or have an idea? Issues and PRs are welcome — see the [erdify contributing guidelines](https://github.com/devsuit-berlin/erdify/blob/main/CONTRIBUTING.md).
 
 ## 🤝 How we work
 
